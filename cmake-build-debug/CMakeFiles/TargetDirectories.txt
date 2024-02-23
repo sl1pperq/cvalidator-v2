@@ -1,0 +1,3 @@
+/Users/sergeysergeev2500mail.ru/CLionProjects/GVv2/cmake-build-debug/CMakeFiles/GVv2.dir
+/Users/sergeysergeev2500mail.ru/CLionProjects/GVv2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergeysergeev2500mail.ru/CLionProjects/GVv2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
